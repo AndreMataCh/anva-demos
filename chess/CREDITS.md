@@ -1,0 +1,1 @@
+# Chess demo\nJuego: HeyPuter/everything (src/chess)\nLicencia: MIT - Copyright (c) 2025 Puter\nDeploy por ANVA AI (2026).
